@@ -1,7 +1,7 @@
 # basemaps
 
-![Matplotlib buildings](/buildings_matplotlib.PNG)
+![Matplotlib buildings](/buildings-matplotlib.PNG)
 
-![Matplotlib roads](/roads_matplotlib.PNG)
+![Matplotlib roads](/roads-matplotlib.PNG)
 
 ![Bokeh](/bokeh.PNG)
